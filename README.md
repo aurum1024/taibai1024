@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 -->
 
 
-<!-- **JinxinZhang/JinxinZhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **JinxinZhang/ZhangJinxin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 - ✍️ &nbsp; Enthusiast in deep learning, exploring neural networks and their applications
 - ☕ &nbsp; I believe that a perfect cup of coffee can spark creativity and relieve stress
 
-⭐️ From JinxinZhang
+⭐️ From ZhangJinxin
