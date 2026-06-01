@@ -27,15 +27,4 @@ Here are some ideas to get you started:
 - ✍️ &nbsp; Enthusiast in deep learning, exploring neural networks and their applications
 - ☕ &nbsp; I believe that a perfect cup of coffee can spark creativity and relieve stress
 
-<h3>🛠 Tech Stack</h3>
-
-- 💻 &nbsp; Python | Dart | Java   
-- 🌐 &nbsp; Android | flutter | HTML | CSS | JavaScript 
-- 🛢 &nbsp; MySQL | Firebase | Redis
-- 🔧 &nbsp; Android Studio | PyCharm | VS Code | Git | Idea
-- 🖥 &nbsp; Adobe Xd  | Photoshop 
-
-<br> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Metalxin&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Metalxin's Github Stats"> </br>
-
-<h3> 🤝🏻 Connect with Me </h3> <p align="center"> &nbsp; <a href="https://twitter.com/Metalxin" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a> &nbsp; <a href="https://www.instagram.com/Metalxin/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a> &nbsp; <a href="https://www.linkedin.com/in/Metalxin" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a> &nbsp; <a href="mailto:goldxin1024@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png" width="50" /></a> </p>
 ⭐️ From JinxinZhang
